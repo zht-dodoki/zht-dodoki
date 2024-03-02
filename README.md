@@ -1,11 +1,12 @@
-PhD in CS👋
+:smiley: PhD in CS👋
 
-(〃'▽'〃) skill: AI security; Adversarial attack; Federated Learning; Machine Learning
+skill: AI security; Adversarial attack; Federated Learning; Machine Learning
 
 
-⚡⚡⚡I will upload my existing work from time to time
-🔭🔭🔭 I’m currently working on Combinatorial optimization: Approximation algorithm; Submodular functions; 
+:chicken: I will upload my existing work from time to time
+
+🔭 I’m currently working on Combinatorial optimization: Approximation algorithm; Submodular functions; 
 
 ٩(๑❛ᴗ❛๑)۶  Learning Malware-development for C++ SKILL 🤔
 
-
+:panda_face:
