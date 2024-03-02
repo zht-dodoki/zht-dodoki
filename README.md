@@ -1,16 +1,19 @@
-### Hi there 👋
+PhD in CS👋
 
-<!--
-**zht-dodoki/zht-dodoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(〃'▽'〃) skill: AI security; Adversarial attack; Federated Learning; Machine Learning
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ) ))
+  ( ((  /)
+ ,-===-//
+|`-===-'|
+' ✨ ✨'
+ \_____/
+ `-----'
+
+⚡⚡⚡I will upload my existing work from time to time
+🔭🔭🔭 I’m currently working on Combinatorial optimization: Approximation algorithm; Submodular functions; 
+
+٩(๑❛ᴗ❛๑)۶  Learning Malware-development for C++ SKILL 🤔
+
+
